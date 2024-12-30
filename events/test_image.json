@@ -1,0 +1,15 @@
+{
+    "Records": [
+      {
+        "s3": {
+          "bucket": {
+            "name": "Insert bucket name here" 
+          },
+          "object": {
+            "key": "Insert the test file name uploaded to s3 bucket, you can use the test.jpeg if you need a file" 
+          }
+        }
+      }
+    ]
+  }
+  
