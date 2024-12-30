@@ -70,9 +70,3 @@ lambda_func_WSL/
 - [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda/index.html)
 - [WSL Documentation](https://docs.microsoft.com/en-us/windows/wsl/)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-This template provides a clear overview of your project, setup instructions, and references for users. Feel free to customize it further to suit your project's specific details. 
