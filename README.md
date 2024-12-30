@@ -54,8 +54,8 @@ The repository is organized as follows:
 lambda_func_WSL/
 ├── README.md           # Project documentation
 ├── template.yaml       # SAM template for defining the AWS resources
-└── src/                # Directory containing the Lambda function code
-    └── app.py          # Main application code
+└── lambda_function_directory/                # Directory containing the Lambda function code
+    └── lambda_function.py          # Main application code
 ```
 
 ## Notes
